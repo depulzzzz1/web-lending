@@ -1,0 +1,17 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "dashboard-preview",
+      "description": "DEPMQ Dashboard Preview",
+      "imageUrl": "https://picsum.photos/seed/depmq-dash/1200/800",
+      "imageHint": "saas dashboard"
+    },
+    {
+      "id": "workflow-nodes",
+      "description": "Workflow Builder Visual",
+      "imageUrl": "https://picsum.photos/seed/workflow/800/600",
+      "imageHint": "automation workflow"
+    }
+  ]
+}
